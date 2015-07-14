@@ -3,6 +3,10 @@ cloudwatch-linux CHANGELOG
 
 This file is used to list changes made in each version of the cloudwatch-linux cookbook.
 
+1.0.1
+-----
+- Rob Gindes - changed berksfile source to our supermarket.
+
 0.1.0
 -----
 - [your_name] - Initial release of cloudwatch-linux
